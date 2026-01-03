@@ -60,7 +60,7 @@ Lihat rancangan aplikasi kami secara langsung melalui tautan di bawah ini:
 * **Hanafi Raihan Firmansyah Putra** — [UX Researcher & Interaction Designer]
 * **Syahrul Imtikhan Ahmad** — [Creative Lead & Branding Specialist]
 * **Sa'adina Lutfia Rahmat** — [Product Strategist & UX Writer]
-* **Nasywan Musyaffa Kuswanto Putra - [Quality Assurance (QA) & Accessibility Specialist]
+* **Nasywan Musyaffa Kuswanto Putra** - [Quality Assurance (QA) & Accessibility Specialist]
 
 ---
 <p align="center">
